@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hynnet.pdf.j" type="repository">
+    <properties maven-id="com.hynnet:pdf-j:5.85" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hynnet/pdf-j/5.85/pdf-j-5.85.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
